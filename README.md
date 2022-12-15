@@ -1,4 +1,4 @@
-# Opensource SW Final Term
+# Final Term Project
 # Configuration instructions
 ## VotingClassifier
 - KNeighborsClassifier
